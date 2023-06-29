@@ -1,0 +1,3 @@
+Author{fName='ِAnoud', lName='saud', books=[Book{name :MYFIRST:, id=123122, year=2020, Story :when i was littele kxaokxd}]}
+Author{fName='Anoud', lName='saud', books=[Book{name :Anoudlife:, id=21, year=2020, Story :tfguutuh}]}
+Author{fName='adas', lName='asda', books=[Book{name :asds:, id=21, year=2002, Story :dwswadcsaxc}]}
